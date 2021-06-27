@@ -20,4 +20,4 @@ while True:
 
     if keyboard.is_pressed('x'):
         pyautogui.rightClick()
-z
+        
